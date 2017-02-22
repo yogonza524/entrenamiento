@@ -3,7 +3,7 @@ Entrenamiento en Java desde cero
 
 1 Familiariciarse con el entorno (IDE)
 
-2. [https://es.wikipedia.org/wiki/Desarrollo_guiado_por_pruebas](Test Driven (Leer))
+2. [Test Driven (Leer)](https://es.wikipedia.org/wiki/Desarrollo_guiado_por_pruebas)
 
 3. Comenzar a utilizar las estructuras de datos
 

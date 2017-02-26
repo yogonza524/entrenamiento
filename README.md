@@ -7,8 +7,14 @@ Entrenamiento en Java desde cero
 
 3. Comenzar a utilizar las estructuras de datos
 
-# Ejemplo
+# Estructuras de datos
 
-Desarrollar un programa en Java que multiplique dos numeros, los mismos deben cargarse previamente de manera estatica, mostrar por pantalla el resultado
+## Asignacion
 
-
+1. Defina una variable tipo entero con el número 3 y muestrelo por pantalla
+2. Repita el ejercicio anterior definiendo un objeto Entero en lugar de una variable
+3. Defina un arreglo de enteros y muestre el contenido por pantalla.
+4. Defina una cadena de caracteres, cargue dicha cadena con la frase "Hola mundo!" y muestre el contenido por pantalla
+5. Defina una variable booleana y muestre el contenido por pantalla
+6. Repita el ejercicio anterior definiendo un objeto Booleano en lugar de una variable
+7. Defina dos cadenas de caracteres y concatene el resultado mostrandolo por pantalla
